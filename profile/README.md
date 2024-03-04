@@ -19,6 +19,7 @@ This name positions the project at the forefront of the open-source movement in 
 Join our vibrant community of space exploration enthusiasts and developers:
 
 - **Zulip**: [Join Our Zulip](https://bdevio.zulipchat.com/join/2onszf32qdr2suzheuslvcdz/) for real-time discussions.
+- **Blog**: [Blog](https://bdev.io) for announcement / contributors
 
 ## Vision
 
